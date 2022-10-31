@@ -17,3 +17,5 @@ A bot for web scraping and sending telegram group signals
 
 ## 3. Additional configuration
 > If you want to change the number of numbers of the repetition, go to scraper.py and change the value of quantidade_numeros
+
+> External libraries are in IMPORTS.txt
